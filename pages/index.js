@@ -4,6 +4,7 @@ import Image from "next/image";
 import { data } from "../data";
 import styles from "../styles/Home.module.css";
 import Services from "../components/Services";
+import Testimonials from "../components/Testimonials";
 
 export default function Home({services}) {
   
@@ -15,6 +16,7 @@ export default function Home({services}) {
       </Head>
       <Intro />
       <Services services={services} />
+      <Testimonials />
     </div>
   );
 }
