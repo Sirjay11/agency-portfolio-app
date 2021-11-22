@@ -21,7 +21,7 @@ const Intro = () => {
       </div>
       <div className={styles.card}>
         <Image
-          src="/img/cartoon-web-dev1.jpeg"
+          src="/img/canvas.png"
           priority="true"
           layout="fill"
           objectFit="cover"
