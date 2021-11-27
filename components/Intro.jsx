@@ -23,7 +23,9 @@ const Intro = () => {
         <Image
           src="/img/canvas.png"
           priority="true"
-          layout="fill"
+          /*layout="fill"*/
+          width="1200px"
+          height="1200px"
           objectFit="cover"
           alt=""
         />

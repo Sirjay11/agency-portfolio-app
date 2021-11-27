@@ -10,23 +10,23 @@ const Footer = () => {
         <h1 className={styles.linkTitle}>
           <a href="/contact">
             <span className={styles.linkText}>WORK WITH ME</span>
-            <Image src="/img/link1.jpeg/" width="40px" height="40px" alt="" />
+            <Image src="/img/link1.jpeg/" width="40px" height="40px" objectFit="cover" alt="" />
           </a>
         </h1>
       </div>
       <div className={styles.cardS}>
-        <div clasName={styles.cardItem}>
+        <div className={styles.cardItem}>
           12 ADAM WAY CA <br /> USA
         </div>
-        <div clasName={styles.cardItem}>
+        <div className={styles.cardItem}>
           CONTACT@JAMES.DEV <br /> 213 425 3546
         </div>
       </div>
       <div className={styles.cardS}>
-        <div clasName={styles.cardItem}>
+        <div className={styles.cardItem}>
           FOLOW ME: <br /> __FB __IN __BE __TW
         </div>
-        <div clasName={styles.cardItem}>
+        <div className={styles.cardItem}>
           © 2021 James LLC,<br /> ALL RIGHTS RESERVED
         </div>
       </div>

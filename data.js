@@ -2,6 +2,182 @@ export const data = [
   {
     id: 1,
     name: "projects",
+    title: "Projects",
+    desc: "View My work",
+    photo: "responsive2.png",
+    longDesc:
+      "Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library. Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library",
+    images: [
+      {
+        id: 1,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 2,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 3,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 4,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 5,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 6,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+    ],
+  },
+  {
+    id: 2,
+    name: "linkedin",
+    title: "Linkedin",
+    desc: "View My Profile",
+    photo: "responsive1.png",
+    longDesc:
+      "Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library. Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library",
+    images: [
+      {
+        id: 1,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 2,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 3,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 4,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 5,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 6,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+    ],
+  },
+  {
+    id: 3,
+    name: "contact",
+    title: "Contact",
+    desc: "Contact Me",
+    photo: "responsive1.png",
+    longDesc:
+      "Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library. Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library",
+    images: [
+      {
+        id: 1,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 2,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 3,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 4,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 5,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 6,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+    ],
+  },
+  {
+    id: 4,
+    name: "resume",
+    title: "resume",
+    desc: "View My Resume",
+    photo: "responsive1.png",
+    longDesc:
+      "Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library. Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library",
+    images: [
+      {
+        id: 1,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 2,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 3,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 4,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 5,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 6,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+    ],
+  },
+  {
+    id: 5,
+    name: "github",
+    title: "github",
+    desc: "View My Github",
+    photo: "responsive1.png",
+    longDesc:
+      "Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library. Simply drag and drop photos into your workspace to automatically add them to your Collab Cloud Library",
+    images: [
+      {
+        id: 1,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 2,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 3,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 4,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 5,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+      {
+        id: 6,
+        url: "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+    ],
+  },
+
+  {
+    id: 1,
+    name: "projects",
     title: "projects",
     desc: "View My work",
     photo: "responsive2.png",
